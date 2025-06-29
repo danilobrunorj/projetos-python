@@ -1,4 +1,4 @@
-print('Bem vindo ao quiz do Dan Sampaio 2023')
+print('Bem vindo ao quiz do Show de perguntas 2025')
 comeco = input('Vamos começar? (S/N) ').lower()
 
 if comeco != "s":
